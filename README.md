@@ -1,6 +1,6 @@
 # Assignment 6
 
-For this assignment you will write 3 methods and some code in `main` for a currency conversion program.
+For this assignment you will write 2 methods and some code in `main` for a currency conversion program.
 
 Please download the starter code from Github and fill in the required methods by following the directions given in the file.
 
