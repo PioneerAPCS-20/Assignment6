@@ -17,7 +17,7 @@ public class CurrencyConversion
         // Call printWelcome method (1 line)
         
         
-        // Prompt and take input for US Dollars (2 lines)
+        // Take input for US Dollars (1 line)
         
         
         
